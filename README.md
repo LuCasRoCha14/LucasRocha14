@@ -39,7 +39,9 @@
 <br><p align="centre"><b>Contagem de Visitantes</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuCasRoCha14}/count.svg" /></p> 
 <br></div>
-
+</div>
+<img align="right" alt="Luca-rock" src="https://tenor.com/view/hollow-knight-hk-grub-worm-dance-gif-13699266172877099889/hi.gif">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1aa5d4&height=120&section=footer"/>
 
