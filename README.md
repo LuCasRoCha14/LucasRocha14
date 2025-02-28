@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/lucas_rocha1407/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
 
-![Image](https://github.com/user-attachments/assets/431387bf-ab97-4a22-ac28-0728c36bf3b7)
+  ![Image](https://github.com/user-attachments/assets/431387bf-ab97-4a22-ac28-0728c36bf3b7)
  
 ### Main skills:
  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
