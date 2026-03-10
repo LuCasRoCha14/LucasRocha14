@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=header"/>
 
 # 👋 Olá, eu sou Lucas Eduardo da Rocha!
-🎓 Tenho 19 anos, estudo Ciência da Computação pela UNP e sou apaixonado por tecnologia 🚀  
+🎓 Tenho 19 anos, estudo Ciência da Computação pela UNP 🚀  
 
 ---
 
