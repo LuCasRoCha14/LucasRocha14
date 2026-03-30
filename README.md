@@ -43,6 +43,7 @@
 
 ## 🌐 Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucas_rocha1407)
+[![Linkedln](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rocha-b8784235a/)
 
 ---
 
